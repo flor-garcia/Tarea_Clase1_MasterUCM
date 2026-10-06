@@ -13,7 +13,7 @@ print(f"El importe total es: {importe_total(ventas)} €") # Print para mostrar 
 print(f"Las unidades vendidas son: {unidades_vendidas(ventas)} unidades") # Print para mostrar las unidades totales llamando a la función
 print("\nTotal por categoría:\n", total_por_categoria(ventas)) # print para mostrar las ventas por categoria llamando a la función
 
-print(obtener_ventas_por_categoria(ventas)) # Llamo a la función obtener_ventas_por_categoria() para que el usuario pueda elegir una categoría y mostrar el total de ventas de esa categoría.
+obtener_ventas_por_categoria(ventas) # Llamo a la función obtener_ventas_por_categoria() para que el usuario pueda elegir una categoría y mostrar el total de ventas de esa categoría.
 
-guardar_parquet(ventas, "tarea_clase1/datos/ventas.parquet") 
+guardar_parquet(ventas,"tarea_clase1/datos/ventas.parquet") 
 print(leer_parquet("tarea_clase1/datos/ventas.parquet"))
