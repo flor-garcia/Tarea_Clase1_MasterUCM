@@ -1,0 +1,21 @@
+fecha,producto,categoria,unidades,precio_unitario
+2026-01-03,Laptop,Electrónica,2,850.0
+2026-01-05,Mouse,Accesorios,15,12.5
+2026-01-08,Monitor,Electrónica,3,220.0
+2026-01-12,Teclado,Accesorios,8,35.0
+2026-01-15,Silla ergonómica,Mobiliario,4,180.0
+2026-01-20,Auriculares,Accesorios,10,45.0
+2026-01-25,Escritorio,Mobiliario,2,310.0
+2026-02-02,Tablet,Electrónica,5,399.0
+2026-02-06,Webcam,Accesorios,7,60.0
+2026-02-10,Impresora,Electrónica,1,250.0
+2026-02-14,Lámpara de escritorio,Mobiliario,6,28.0
+2026-02-18,Laptop,Electrónica,3,850.0
+2026-02-22,Mouse,Accesorios,20,12.5
+2026-03-01,Disco SSD,Almacenamiento,9,95.0
+2026-03-05,Pendrive,Almacenamiento,25,9.9
+2026-03-09,Monitor,Electrónica,2,220.0
+2026-03-14,Estantería,Mobiliario,3,120.0
+2026-03-18,Disco externo,Almacenamiento,4,75.0
+2026-03-23,Teclado,Accesorios,6,35.0
+2026-03-28,Tablet,Electrónica,2,399.0
